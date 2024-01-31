@@ -1,4 +1,4 @@
-### Oi, aqui é o Moisés, Desenvolvedor Frontend e Designer 🦅! 
+### Oi, aqui é o Moisés, Dsenvolvedor Frontend e Designer 🦅! 
 
 ## Um pouco sobre mim:
 <div>
