@@ -1,5 +1,8 @@
 ### Oi, aqui é o Moisés, Dsenvolvedor Frontend e Designer 🦅! 
 
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/moiseslops/4f54cdc2ed940c19ecd91dbef51501ae/raw/1d5c20c460f4168b900b0cb4099bd92ecfeb7d07/githubcard.svg">
+  
 ## Um pouco sobre mim:
 <div>
   <p>
@@ -10,8 +13,7 @@
   </p>
 </div>
 
-## Minhas Tecnologias  
-  
+## Minhas Tecnologias
 <div style="display: inline_block"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +29,7 @@
           
           
  
-</div><br>
+</div>
 
 ## Cursos e Certificações
 
