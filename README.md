@@ -36,7 +36,7 @@ Especializando em Gestão Financeira | UnP | 2023 | Cursando
 WEB design e Design Gráfico | Udemy | 2023 | Cursando
 Fundamentos de Hardware e Software | Fundação Bradesco | 2023 | Certificação
 Administração de Bancos de Dados | Fundação Bradesco | 2024 | Certificação
-SQL do básico ao avançado | Udemy | 2023 | Curso
+SQL do básico ao avançado | Udemy | 2023 | Cursando
 Arquitetura de Redes de Computadores| Udemy | 2023 | Certificação
 
 ## Minhas Redes Sociais
