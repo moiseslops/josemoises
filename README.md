@@ -1,8 +1,6 @@
 ### Oi, aqui é o Moisés, Dsenvolvedor Frontend e Designer 🦅! 
 
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/moiseslops/4f54cdc2ed940c19ecd91dbef51501ae/raw/1d5c20c460f4168b900b0cb4099bd92ecfeb7d07/githubcard.svg">
-  
 ## Um pouco sobre mim:
 <div>
   <p>
