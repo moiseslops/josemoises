@@ -29,8 +29,8 @@
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
+Bolsa em Engenharia de Dados | Santander | 2024 | Cursando
 Técnico Integrado em Informática | IFRN Campus Currais Novos | 2021 | Cursando
-Especializando em Gestão Financeira | UnP | 2023 | Cursando
 WEB design e Design Gráfico | Udemy | 2023 | Cursando
 Fundamentos de Hardware e Software | Fundação Bradesco | 2023 | Certificação
 Administração de Bancos de Dados | Fundação Bradesco | 2024 | Certificação
